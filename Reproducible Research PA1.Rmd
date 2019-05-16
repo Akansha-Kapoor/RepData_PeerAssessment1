@@ -2,8 +2,9 @@
 title: 'Reproducible Research: Peer Assessment 1'
 author: "Akansha Kapoor"
 date: "May 16, 2019"
-output: html_document
-keep_md: true
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ***
